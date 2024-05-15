@@ -1,1 +1,5 @@
-SQL injection, also known as SQLI, is a common attack vector that uses maliciouSQL code for backend database manipulation to access information that was not intended to be displayed. This information may include any number of items, including sensitive company data, user lists or private customer details.
+# Footprinting and Reconnaissance
+
+> Footprinting refers to collecting as much information as possible regarding a target network from publicly accessible sources.
+
+<br>
